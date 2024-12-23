@@ -20,7 +20,7 @@ Excel : For Data cleaning and Filtering.
 
 # Sources
 ### Dataset:
-Sample - BlinkiIT.xls [Download Here](https://microsoft.com)
+Sample -BlinkIT Grocery Data.xlsx [Download Here](https://microsoft.com)
 
 ### Dashboard:
 Includes all filters, slicers and visualizations.
