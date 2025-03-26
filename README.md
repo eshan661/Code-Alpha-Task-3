@@ -1,5 +1,5 @@
-# Blinkit Sales Analysis in Power BI 😃
-Analyze and visualize Blimkit sales data to extract meaningful insights through data cleaning, filtering and done visualization with Interactice Dashboard.
+# Blinkit Data visualization in Power BI 😃
+Analyze and visualize Blinkit sales data to extract meaningful insights through data cleaning, filtering and done visualization with Interactice Dashboard.
 
 
 # Table of Contents
